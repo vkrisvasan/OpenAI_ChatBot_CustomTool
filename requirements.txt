@@ -1,0 +1,13 @@
+PyPDF2
+langchain
+openai
+faiss-cpu
+python-dotenv
+pickle-mixin
+tiktoken
+httpx==0.18.2
+duckduckgo-search
+callbacks
+xmltodict
+toolwrapper
+arxiv
